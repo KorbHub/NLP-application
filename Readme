@@ -1,3 +1,4 @@
 This respitory collect all the work related to NLP application that I have done and on progress.
 
-Project 1 : extract stock sentiment from news headline => We will use the news headline insight from the FINVIZ.com. Emotion analysis can predict whether people feel good or bad about the company,hence this information can be useful in predicting the direction of change in stock price.
+Project 1 : extract stock sentiment from news headline => We will use the news headline insight from the FINVIZ.com. 
+Emotion analysis can predict whether people feel good or bad about the company,hence this information can be useful in predicting the direction of change in stock price.
