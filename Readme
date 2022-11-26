@@ -2,3 +2,6 @@ This respitory collect all the work related to NLP application that I have done 
 
 Project 1 : extract stock sentiment from news headline => We will use the news headline insight from the FINVIZ.com. 
 Emotion analysis can predict whether people feel good or bad about the company,hence this information can be useful in predicting the direction of change in stock price.
+
+Project2 : Text summarization project using nltk. Building the similarity function to find the cosine similarlity between each sentence. 
+Pick the sentence that have a high similarlity score to the overall meaning for summarizaiton task
